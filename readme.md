@@ -12,11 +12,10 @@ A list of awesome projects from across the Uniswap Protocol ecosystem.
 
 ### Governance
 
-[gov.uniswap.org](https://gov.uniswap.org) – official governance forum
-
-[sybil.org ](https://sybil.org/#/delegates/uniswap) – open source governance tool for discovering delegates
-
-[@govbot_uniswap](https://twitter.com/govbot_uniswap) – twitter governance bot. Tweets out about activity on all platforms.
+* [gov.uniswap.org](https://gov.uniswap.org) – official governance forum
+* [sybil.org ](https://sybil.org/#/delegates/uniswap) – open source governance tool for discovering delegates
+* [@govbot_uniswap](https://twitter.com/govbot_uniswap) – twitter governance bot. Tweets out about activity on all platforms.
+* [snapshot.org](https://snapshot.org/#/uniswap) –  offchain uniswap governance
 
 ### News
 
