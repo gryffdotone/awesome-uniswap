@@ -8,11 +8,20 @@ A list of awesome projects from across the Uniswap Protocol ecosystem.
 
 * [unigrants.org](https://unigrants.org) –  Uniswap Grants Program
 
+### Dapps
+
+|                                            |                                                              |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| [visor.finance](https://www.visor.finance) | Liquidity management for v3 (active managment, re-investment of fees) |
+|                                            |                                                              |
+|                                            |                                                              |
+
 ### Analytics
 
 * [info.uniswap.org](https://info.uniswap.org/#/) – open source analytics interface for the protocol
 * [revert.finance](https://revert.finance) – actionable analytics for DeFi liquidity providers_
 * [croco.finance](https://croco.finance/#/) – v3 tools for liquidity providers
+* [simplefi.finance](https://simplefi.finance) – defi analytics
 
 ### Governance
 
@@ -23,7 +32,10 @@ A list of awesome projects from across the Uniswap Protocol ecosystem.
 
 ### Tools
 
-* 
+* [simple-uniswap-sdk](https://github.com/uniswap-integration/simple-uniswap-sdk) – community maintained open source sdk, supports routing, prices, etc
+* [v3-strategy-simulator](https://defi-lab.xyz/uniswapv3simulator) – simulate and compare different v3 liquidity strategies
+* [uniswappeR](https://github.com/Omni-Analytics-Group/uniswappeR) – R package to interact and trade with Uniswap and explore protocol data from GraphQL.
+* [polywrap.io](https://polywrap.io/#/) – development platform to enable easy integration of web3 protocols into any application
 
 ### News
 
