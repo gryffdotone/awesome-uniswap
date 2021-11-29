@@ -36,6 +36,7 @@ A list of awesome projects from across the Uniswap Protocol ecosystem.
 * [v3-strategy-simulator](https://defi-lab.xyz/uniswapv3simulator) – simulate and compare different v3 liquidity strategies
 * [uniswappeR](https://github.com/Omni-Analytics-Group/uniswappeR) – R package to interact and trade with Uniswap and explore protocol data from GraphQL.
 * [polywrap.io](https://polywrap.io/#/) – development platform to enable easy integration of web3 protocols into any application
+* [uniswapv3-calculator](https://uniswapv3.thechun.dev) – open source, fee calculation with liquidity position histogram and correlation chart
 
 ### News
 
