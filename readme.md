@@ -10,11 +10,11 @@ A list of awesome projects from across the Uniswap Protocol ecosystem.
 
 ### Dapps
 
-|                                            |                                                              |
-| ------------------------------------------ | ------------------------------------------------------------ |
-| [visor.finance](https://www.visor.finance) | Liquidity management for v3 (active managment, re-investment of fees) |
-|                                            |                                                              |
-|                                            |                                                              |
+|                                              |                                                              |
+| -------------------------------------------- | ------------------------------------------------------------ |
+| [visor.finance](https://www.visor.finance)   | Liquidity management for v3 (active managment, re-investment of fees) |
+| [brink.trade](https://www.brink.trade/)      | Transaction automation                                       |
+| [gelato.network](https://www.gelato.network) | Transaction automation                                       |
 
 ### Analytics
 
