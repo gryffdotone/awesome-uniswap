@@ -4,17 +4,22 @@
 
 A list of awesome projects from across the Uniswap Protocol ecosystem.
 
-### Ecosystem
+### Grants
 
 * [unigrants.org](https://unigrants.org) –  Uniswap Grants Program
+* [gammastrategies.org](https://www.gammastrategies.org) –  Gamma Strategies Grants, funded by Visor Finance
 
 ### Dapps
 
-|                                              |                                                              |
-| -------------------------------------------- | ------------------------------------------------------------ |
-| [visor.finance](https://www.visor.finance)   | Liquidity management for v3 (active managment, re-investment of fees) |
-| [brink.trade](https://www.brink.trade/)      | Transaction automation                                       |
-| [gelato.network](https://www.gelato.network) | Transaction automation                                       |
+|                                                        |
+| ------------------------------------------------------ |
+| [visor.finance](https://www.visor.finance)             |
+| [brink.trade](https://www.brink.trade/)                |
+| [gelato.network](https://www.gelato.network)           |
+| [universe.finance](https://www.universe.finance)       |
+| [popsicle.finance](https://popsicle.finance)           |
+| [gammastrategies.org](https://www.gammastrategies.org) |
+|                                                        |
 
 ### Analytics
 
@@ -22,6 +27,8 @@ A list of awesome projects from across the Uniswap Protocol ecosystem.
 * [revert.finance](https://revert.finance) – actionable analytics for DeFi liquidity providers_
 * [croco.finance](https://croco.finance/#/) – v3 tools for liquidity providers
 * [simplefi.finance](https://simplefi.finance) – defi analytics
+* [parsec.finance](https://parsec.finance) – defi analytics
+* [dextools.io](https://www.dextools.io) – DEX real-time data analysis
 
 ### Governance
 
@@ -29,6 +36,7 @@ A list of awesome projects from across the Uniswap Protocol ecosystem.
 * [sybil.org ](https://sybil.org/#/delegates/uniswap) – open source governance tool for discovering delegates
 * [@govbot_uniswap](https://twitter.com/govbot_uniswap) – twitter governance bot. Tweets out about activity on all platforms.
 * [snapshot.org](https://snapshot.org/#/uniswap) –  offchain uniswap governance
+* [messari.io](https://messari.io/governor/proposal-tracker) –  proposal tracker
 
 ### Tools
 
@@ -37,6 +45,7 @@ A list of awesome projects from across the Uniswap Protocol ecosystem.
 * [uniswappeR](https://github.com/Omni-Analytics-Group/uniswappeR) – R package to interact and trade with Uniswap and explore protocol data from GraphQL.
 * [polywrap.io](https://polywrap.io/#/) – development platform to enable easy integration of web3 protocols into any application
 * [uniswapv3-calculator](https://uniswapv3.thechun.dev) – open source, fee calculation with liquidity position histogram and correlation chart
+* [ranges.fi](https://ranges.fi) – v3 LP backtesting
 
 ### News
 
