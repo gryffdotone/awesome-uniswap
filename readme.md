@@ -11,15 +11,15 @@ A list of awesome projects from across the Uniswap Protocol ecosystem.
 
 ### Dapps
 
-|                                                        |
-| ------------------------------------------------------ |
-| [visor.finance](https://www.visor.finance)             |
-| [brink.trade](https://www.brink.trade/)                |
-| [gelato.network](https://www.gelato.network)           |
-| [universe.finance](https://www.universe.finance)       |
-| [popsicle.finance](https://popsicle.finance)           |
-| [gammastrategies.org](https://www.gammastrategies.org) |
-|                                                        |
+|                                                        |                                                              |
+| ------------------------------------------------------ | ------------------------------------------------------------ |
+| [visor.finance](https://www.visor.finance)             | Liquidity management for v3 (active managment, re-investment of fees) |
+| [brink.trade](https://www.brink.trade/)                | Transaction automation                                       |
+| [gelato.network](https://www.gelato.network)           | Transaction automation                                       |
+| [universe.finance](https://www.universe.finance)       | Backtesting, smart & private vaults, programmable liquidity management |
+| [popsicle.finance](https://popsicle.finance)           | Multi-chain liquidity provision                              |
+| [gammastrategies.org](https://www.gammastrategies.org) | Active managment research, grants, data analytics            |
+|                                                        |                                                              |
 
 ### Analytics
 
